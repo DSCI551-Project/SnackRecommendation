@@ -1,4 +1,7 @@
 # Recommendation System for Snacks
+
+Created by: Cheng Peng, Lishi Ji, Zixin Zhang
+
 Please check out our demo video: https://usc.zoom.us/rec/share/QrI0p1Lp06OJEBefHGl21LbOPc1IUBOLPUQ16QiYKJu81_JTtQq9o3EAyAW6Iv9Z.ct1MzAFw9CgSs12f?startTime=1606357341000
 
 ## web
