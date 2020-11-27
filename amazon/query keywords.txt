@@ -1,0 +1,7 @@
+query keywords:
+candy
+cookie
+cereal
+cake
+tea
+popcorn
