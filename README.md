@@ -2,6 +2,8 @@
 
 Created by: Cheng Peng, Lishi Ji, Zixin Zhang
 
+As the choices for food are in a large growth, it's harder for people to make their decisions with a flooded amount of information. Our snack recommendation system can solve this problem while satisfying consumers with different demands. The unique system computes recommendation results based on both the tastes/reviews and the nutrition level of each product. All the things that the users need to do is to type in one  keyword that they are interested in, and our system will present the most relevant results in a decent way.
+
 Please check out our demo video: https://usc.zoom.us/rec/share/QrI0p1Lp06OJEBefHGl21LbOPc1IUBOLPUQ16QiYKJu81_JTtQq9o3EAyAW6Iv9Z.ct1MzAFw9CgSs12f?startTime=1606357341000
 
 ## web
